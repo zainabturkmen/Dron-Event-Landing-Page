@@ -47,3 +47,7 @@ body{
  .blue-col{
     background-color: #7988BE;
  }
+
+ .container{
+    margin: 0 1em;
+ }
