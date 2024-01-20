@@ -37,3 +37,6 @@ body{
    z-index: -1;
 }
 
+.light-streaks {
+    background: #B2DD9E url(assets/streaks.jpg);
+ }
