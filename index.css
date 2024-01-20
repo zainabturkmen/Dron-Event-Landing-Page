@@ -23,5 +23,5 @@ body{
 
 .menu-btn{
     width: 2.5em;
-    
+    cursor: pointer;
 }
