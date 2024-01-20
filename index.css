@@ -40,4 +40,5 @@ body{
 .light-streaks {
     background: #B2DD9E url(assets/streaks.jpg);
     background-blend-mode: screen;
+    background-size: cover;
  }
