@@ -88,5 +88,9 @@ body{
  .type p{
     font-family: 'Montserrat';
     font-size: 1.125rem;
-    line-height: ;
+    line-height: 141.6%;
+ }
+
+ .drone-container{
+    position: relative;
  }
