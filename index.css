@@ -94,4 +94,22 @@ body{
  .drone-container{
     position: relative;
     margin: 5em auto;
+    width: 65%;
  }
+
+ .blur, .drone{
+    position: absolute;
+    left: 0;
+
+ }
+
+
+
+
+
+
+
+
+
+
+
