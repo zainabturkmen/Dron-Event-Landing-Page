@@ -31,5 +31,7 @@ body{
    position: absolute; 
    width: 90%;
    top: 0;
-   
+   right: 0;
+   display: grid;
+
 }
