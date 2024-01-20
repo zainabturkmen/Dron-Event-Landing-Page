@@ -60,5 +60,6 @@ body{
  .logo{
     display: inline-block;
     background-color: black;
-    
+    padding: .2em .4em;
+    color: white;
  }
