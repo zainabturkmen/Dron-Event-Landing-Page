@@ -84,3 +84,9 @@ body{
     font-weight: normal;
     line-height: 92%;
  }
+
+ .type p{
+    font-family: 'Montserrat';
+    font-size: 1.125rem;
+    line-height: ;
+ }
