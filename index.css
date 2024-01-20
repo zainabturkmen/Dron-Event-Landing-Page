@@ -33,5 +33,6 @@ body{
    top: 0;
    right: 0;
    display: grid;
+   grid-template-columns: 80% auto;
 
 }
