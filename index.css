@@ -56,3 +56,7 @@ body{
     display: flex;
     justify-content: space-between;
  }
+
+ .logo{
+    display: inline-block;
+ }
