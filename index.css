@@ -29,4 +29,5 @@ body{
 .top-bg-container{
    height: 100vh;
    position: absolute; 
+   width: 90%;
 }
