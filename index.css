@@ -34,5 +34,6 @@ body{
    right: 0;
    display: grid;
    grid-template-columns: 80% auto;
+   z-index: -1;
 
 }
