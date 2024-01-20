@@ -30,4 +30,6 @@ body{
    height: 100vh;
    position: absolute; 
    width: 90%;
+   top: 0;
+   
 }
