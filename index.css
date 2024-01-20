@@ -26,3 +26,7 @@ body{
     cursor: pointer;
 }
 
+.top-bg-container{
+   height: 100vh;
+   position: absolute; 
+}
