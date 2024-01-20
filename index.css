@@ -43,3 +43,7 @@ body{
     background-size: cover;
     height: 100vh;
  }
+
+ .blue-col{
+    background-color: #7988BE;
+ }
