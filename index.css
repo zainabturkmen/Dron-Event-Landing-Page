@@ -20,3 +20,7 @@ body{
     margin: 0;
     font-family: 'Bebas Neue';
 }
+
+.menu-btn{
+    width: 2.5em;
+}
