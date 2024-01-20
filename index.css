@@ -100,7 +100,11 @@ body{
  .blur, .drone{
     position: absolute;
     left: 0;
+ }
 
+ .blur{
+    opacity: .5;
+    top: 1em;
  }
 
 
