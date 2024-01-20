@@ -51,3 +51,7 @@ body{
  .container{
     margin: 0 1em;
  }
+
+ nav{
+    display: flex;
+ }
