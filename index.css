@@ -70,6 +70,9 @@ body{
  }
 
  nav ul {
+    position: fixed;
+    top: 0;
+    
  }
 
  .contetn{
