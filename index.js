@@ -7,7 +7,6 @@ const manuBtn = document.querySelector('.menu-btn')
 
 manuBtn.addEventListener('click', () => {
     navUl.style.transform = 'translateX(0)'
-
 })
 
 manuBtn.addEventListener('click', () => {
