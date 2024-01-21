@@ -198,6 +198,7 @@ cite:before{
 
 .gallery{
     display: grid;
+    grid-template-columns: ;
 }
 
 
