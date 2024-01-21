@@ -1,4 +1,5 @@
 // javascript
 
 const manuBtn = document.querySelector('.menu-btn')
-      exitBtn = document.querySelector(.)
+      exitBtn = document.querySelector('.exit-btn')
+      
