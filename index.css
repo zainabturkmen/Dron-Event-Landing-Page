@@ -320,5 +320,12 @@ button{
 
     .top-bg-container{
         width: 90%;
+        grid-template-columns: 60% auto;
+    }
+
+    .container{
+        width: 80%;
+        margin: 0 auto;
+        
     }
 }
