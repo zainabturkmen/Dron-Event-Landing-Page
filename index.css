@@ -286,4 +286,6 @@ button{
     padding: .8em;
     width: 100%;
     text-transform: uppercase;
+    font-family: 'Bebas Neue';
+    color: white;
 }
