@@ -208,6 +208,7 @@ cite:before{
     grid-template-areas:
          ". a b"
          "c d ."
+         "c d ."
 }
 
 
