@@ -198,6 +198,8 @@ cite:before{
 
 .gallery{
     display: block;
+    width: 90%;
+    margin-left: auto;
 }
 
 
