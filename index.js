@@ -11,5 +11,4 @@ manuBtn.addEventListener('click', () => {
 
 exitBtn.addEventListener('click', () => {
     navUl.style.transform = 'translateX(100%)'
-
 })
