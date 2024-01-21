@@ -156,6 +156,8 @@ body{
  .qoute{
     width: 90%;
     background-color: #303853;
+    color: white;
+    position: absolute;
  }
 
 
