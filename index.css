@@ -114,10 +114,15 @@ body{
 
  @keyframes hover{
     from{
-        transform: translateY(-100px);
+        transform: translateY(-40px);
     }
  }
 
+ @keyframes pulse {
+    from{
+        opacity: 0;
+    }
+ }
 
 
 
