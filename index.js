@@ -10,6 +10,6 @@ manuBtn.addEventListener('click', () => {
 })
 
 exitBtn.addEventListener('click', () => {
-    navUl.style.transform = 'translateX(0)'
+    navUl.style.transform = 'translateX(100px)'
 
 })
