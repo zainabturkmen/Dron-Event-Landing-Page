@@ -289,4 +289,5 @@ button{
     font-family: 'Bebas Neue';
     color: white;
     font-size: 1.3rem;
+    cursor: pointer;
 }
