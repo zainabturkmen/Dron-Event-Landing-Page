@@ -213,7 +213,7 @@ cite:before{
 }
 
 .gallery-container img:nth-of-type(1){
-    
+    grid-area: a;
 }
 
 
