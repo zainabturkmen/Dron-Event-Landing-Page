@@ -197,7 +197,7 @@ cite:before{
 /* section 2 */
 
 .gallery{
-    
+    display: grid;
 }
 
 
