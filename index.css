@@ -292,4 +292,7 @@ button{
     cursor: pointer;
 }
 
-.other-info
+.other-info{
+    margin-top: 3em;
+    width: 50%;
+}
