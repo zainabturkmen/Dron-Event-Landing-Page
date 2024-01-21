@@ -205,7 +205,8 @@ cite:before{
 
 .gallery-container{
     display: grid;
-    grid-template-areas: ;
+    grid-template-areas:
+         ;
 }
 
 
