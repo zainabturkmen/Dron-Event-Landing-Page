@@ -116,6 +116,8 @@ body{
     font-family: 'Montserrat';
     font-size: 1.125rem;
     line-height: 141.6%;
+    text-transform: lowercase;
+
  }
 
  .drone-container{
@@ -211,6 +213,7 @@ h1{
  
 .footage-content p{
     font-family: sans-serif;
+
 }
 
 .gallery-container{
@@ -313,5 +316,9 @@ button{
 @media only screen and (min-width: 900px) {
     html{
         font-size: 20px;
+    }
+
+    .top-bg-container{
+        width: 90%;
     }
 }
