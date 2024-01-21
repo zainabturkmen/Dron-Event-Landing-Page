@@ -157,9 +157,14 @@ body{
     width: 90%;
     background-color: #303853;
     color: white;
-    position: absolute;
+    position: relative;
     padding: 4em 2em;
-    margin-left: auto ;
+    margin-left: auto;
+    height: 75vh;
+ }
+
+ .qoute:before{
+    
  }
 
 
