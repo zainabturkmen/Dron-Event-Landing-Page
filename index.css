@@ -70,7 +70,6 @@ body{
  }
 
  nav ul {
-    display: none;
  }
 
  .contetn{
@@ -104,7 +103,7 @@ body{
 
  .blur{
     opacity: .5;
-    top: 1em;
+    top: 1em3;
     animation: pulse 2s alternate-reverse infinite;
  }
 
