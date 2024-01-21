@@ -88,6 +88,11 @@ body{
     font-size: 1.5rem;
  }
 
+ .exit-btn{
+    text-align: right;
+
+ }
+
  .exit-btn img {
     width: 2em;
     height: 2em;
