@@ -5,8 +5,12 @@ const manuBtn = document.querySelector('.menu-btn')
       exitBtn = document.querySelector('.exit-btn');
 
 
+manuBtn.addEventListener('click', () => {
+    navUl.style.transform = 'translateX(0)'
+
+})
 
 manuBtn.addEventListener('click', () => {
-    navUl.style.transform = ''
+    navUl.style.transform = 'translateX(0)'
 
 })
