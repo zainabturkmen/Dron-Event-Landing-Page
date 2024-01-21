@@ -311,5 +311,7 @@ button{
 }
 
 @media only screen and (min-width: 900px) {
-    
+    html{
+        font-size: 20px;
+    }
 }
