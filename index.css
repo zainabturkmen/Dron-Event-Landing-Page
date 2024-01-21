@@ -76,6 +76,7 @@ body{
     width: 66%;
     background-color: #363B4E;
     height: 100vh;
+    z-index: 2;
  }
 
  .exit-btn img {
