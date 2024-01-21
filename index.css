@@ -129,6 +129,7 @@ body{
  .blur, .drone{
     position: absolute;
     left: 0;
+    z-index: 1;
  }
 
  .blur{
@@ -345,6 +346,74 @@ button{
         width: 80%;
     }
 
-    
+    /* nav */
 
+    .menu-btn, .exit-btn{
+        display: none;
+    }
+
+    nav ul{
+        transform: translateX(0);
+        width: unset;
+        background: none;
+        display: flex;
+        padding-top: 1em;
+        padding-bottom: 0;
+        position: unset;
+        height: auto;
+    }
+
+    nav ul li a{
+        font-size: 1rem;
+        padding: 0 1rem;
+    }
+
+    /* section 1 */
+
+    blockquote, cite {
+        width: 50%;
+        margin-left: 3em;
+    }
+
+    blockquote {
+        font-size: 2rem;
+        margin-left: 2em;
+    }
+
+    /* section 2 */
+
+    .gallery{
+        display: flex;
+        gap: 4em;
+    }
+
+    .gallery-container{
+        margin-top: -4em;
+        z-index: 1;
+    }
+
+    h2{
+        font-size: 4rem;
+        font-weight: normal;
+        line-height: 91.6%;
+    }
+
+    /* contact section */
+    .cols-2{
+        display: flex;
+        gap: 3em;
+    }
+
+    .other-info, .form-container, .blue-col{
+        flex-basis: 0;
+        flex-grow: 1;
+    } 
+
+    .other-info{
+        margin-top: 2em;
+    }
+
+    input{
+        padding: 1.5em;
+    }
 }
