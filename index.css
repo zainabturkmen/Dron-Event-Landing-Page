@@ -112,7 +112,11 @@ body{
     animation: hover 2s alternate-reverse infinite;
  }
 
- @keyframes
+ @keyframes hover{
+    from{
+        
+    }
+ }
 
 
 
