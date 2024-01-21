@@ -190,6 +190,9 @@ cite:before{
     position: absolute;
     width: 1em;
     border-bottom: 1px solid white;
+    left: 0;
+    top: 50%;
+
 }
 
 
