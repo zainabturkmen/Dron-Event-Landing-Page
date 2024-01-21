@@ -208,7 +208,7 @@ cite:before{
     grid-template-areas:
          ". a b"
          "c d ."
-         "c d .";
+         ". e.";
     margin-top: 2em
 }
 
@@ -222,6 +222,9 @@ cite:before{
     grid-area: c;
 }
 .gallery-container img:nth-of-type(4){
+    grid-area: d;
+}
+.gallery-container img:nth-of-type(5){
     grid-area: d;
 }
 
