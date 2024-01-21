@@ -76,6 +76,11 @@ body{
     width: 66%;
  }
 
+ .exit-btn img {
+    width: 2em;
+    height: 2em;
+ }
+
  .contetn{
     text-align: center;
     margin: 8em 3em 0;
