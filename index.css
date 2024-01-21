@@ -79,6 +79,7 @@ body{
  .exit-btn img {
     width: 2em;
     height: 2em;
+    cursor: pointer;
  }
 
  .contetn{
