@@ -335,4 +335,14 @@ button{
         margin-left: 0;
         margin-right: 0;
     }
+
+    h1{
+        font-size: 5rem;
+        width: 80%;
+    }
+     
+    .type p{
+        width: 80%;
+    }
+
 }
