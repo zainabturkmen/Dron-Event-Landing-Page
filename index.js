@@ -1,11 +1,12 @@
 // javascript
 
 const manuBtn = document.querySelector('.menu-btn')
-      exitBtn = document.querySelector('.exit-btn')
+      navUl = document.querySelector('nav ul')
+      exitBtn = document.querySelector('.exit-btn');
 
 
 
 manuBtn.addEventListener('click', () => {
-    
+    navUl.style.transform = ''
 
 })
