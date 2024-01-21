@@ -208,7 +208,8 @@ cite:before{
     grid-template-areas:
          ". a b"
          "c d ."
-         "c d ."
+         "c d .";
+    margin-top: 2em
 }
 
 
