@@ -164,7 +164,11 @@ body{
  }
 
  .qoute:before{
-    
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    background: url('assets/stadium.jpg');
  }
 
 
