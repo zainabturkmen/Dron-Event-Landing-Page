@@ -253,5 +253,6 @@ h1{
 h3{
     padding: 1em 1em 1em 10%;
     font-size: 2rem;
-    
+    /* background-color: #9FC88C; */
+    background-color: rgba(0,0,0 ,.1);
 }
