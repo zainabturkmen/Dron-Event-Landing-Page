@@ -80,6 +80,13 @@ body{
     padding: 2em 0;
  }
 
+ nav ul li a{
+    color: white;
+    display: block;
+    padding: .4em 1.5em;
+    text-align: right;
+ }
+
  .exit-btn img {
     width: 2em;
     height: 2em;
