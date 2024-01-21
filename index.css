@@ -285,4 +285,5 @@ button{
     border: none;
     padding: .8em;
     width: 100%;
+    text-transform: uppercase;
 }
