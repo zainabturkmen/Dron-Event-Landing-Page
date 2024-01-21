@@ -256,4 +256,6 @@ h3{
     /* background-color: #9FC88C; */
     background-color: rgba(0,0,0 ,.1);
     display: inline-block;
+    margin: 0;
+    font-weight: normal;
 }
