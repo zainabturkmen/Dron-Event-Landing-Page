@@ -90,12 +90,11 @@ body{
 
  .exit-btn{
     text-align: right;
-
  }
 
  .exit-btn img {
     width: 2em;
-    height: 2em;
+    margin: 2em;
     cursor: pointer;
  }
 
