@@ -108,7 +108,11 @@ body{
     animation: pulse 2s alternate-reverse infinite;
  }
 
+ .drone{
+    animation: hover 2s alternate-reverse infinite;
+ }
 
+ @keyframes
 
 
 
