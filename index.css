@@ -204,7 +204,7 @@ cite:before{
 }
 
 .gallery-container{
-    
+    display: grid;
 }
 
 
