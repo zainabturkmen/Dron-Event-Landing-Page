@@ -207,6 +207,7 @@ cite:before{
     display: grid;
     grid-template-areas:
          ". a b"
+         "c d ."
 }
 
 
